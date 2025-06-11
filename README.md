@@ -1,14 +1,14 @@
 # 🚲 Bike Sales Pivot Analysis – Excel Lab
 
-This project contains an Excel workbook titled **`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`** **``**and , focused on analyzing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
+This project contains an Excel workbook titled **`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`** and  **`Day_3_Task_3_Bike_Sales_Visualisations_Lab - Krishan_Mehta.xlsx`**and , focused on analysing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
 
 ---
 
 ## 📊 Project Overview
 
-This project demonstrates the use of **Microsoft Excel** to analyze and visualize bike sales data. Key features include:
+This project demonstrates the use of **Microsoft Excel** to analyse and visualise bike sales data. Key features include:
 
-- Pivot Tables for summarizing and grouping sales data  
+- Pivot Tables for summarising and grouping sales data  
 - Filtering by product category, customer demographics, and region  
 - Sales performance and revenue trend analysis  
 - Insights into customer behavior  
@@ -36,19 +36,16 @@ These visuals enhance data interpretation and support data-driven decision-makin
 
 ## 📁 File Contents
 
-**`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`** includes:
+**`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx` and *`Day_3_Task_3_Bike_Sales_Visualisations_Lab - Krishan_Mehta.xlsx`* includes:
 
 - A **Raw Data** sheet with detailed bike sales records  
-- One or more **Pivot Tables** summarizing:
+- One or more **Pivot Tables** summarising:
   - Total sales by product or category
   - Revenue by region or customer type
   - Sales trends over time or by salesperson
 - Custom formatting, labels, and styles suitable for business presentations
 
 ---
-
-
-
 ## 🛠 Tools & Techniques Used
 
 - **Microsoft Excel**
@@ -63,7 +60,7 @@ These visuals enhance data interpretation and support data-driven decision-makin
 
 1. Open the workbook in Microsoft Excel (desktop or online).
 2. Explore the existing pivot tables and slicers (if applicable).
-3. Apply filters or create new pivot tables for customized insights.
+3. Apply filters or create new pivot tables for customised insights.
 4. Use the workbook to understand trends, segment data, and support business decisions.
 
 ---
@@ -74,8 +71,8 @@ These visuals enhance data interpretation and support data-driven decision-makin
 
 By working through this Excel lab, you will:
 
-- Learn to summarize large datasets using Pivot Tables  
-- Understand how to analyze sales by category, region, customer type, and time  
+- Learn to summarise large datasets using Pivot Tables  
+- Understand how to analyse sales by category, region, customer type, and time  
 - Improve data reporting and dashboard creation skills in Excel  
 
 ---
@@ -84,12 +81,6 @@ By working through this Excel lab, you will:
 
 - [Microsoft Excel PivotTable Basics](https://support.microsoft.com/excel)
 - [ExcelJet – Pivot Table Tips](https://exceljet.net/pivot-tables)
-
----
-
-## 📝 License
-
-This workbook is provided for **educational and learning purposes**. You are free to modify and reuse it with proper attribution.
 
 ---
 
