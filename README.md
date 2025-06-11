@@ -1,6 +1,6 @@
 # 🚲 Bike Sales Pivot Analysis – Excel Lab
 
-This project contains an Excel workbook titled **`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`**, focused on analyzing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
+This project contains an Excel workbook titled **`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`** **``**and , focused on analyzing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
 
 ---
 
@@ -14,6 +14,24 @@ This project demonstrates the use of **Microsoft Excel** to analyze and visualiz
 - Insights into customer behavior  
 - Professional formatting for readability and presentation  
 
+---
+## 📈 Data Visualisations
+
+The workbook includes the following visualisations created using **Pivot Tables and Excel charts**:
+
+1. **Revenue vs Profit** – *Line Graph*
+   ![image](https://github.com/user-attachments/assets/667c9bfe-4065-4729-be28-06aafbde8767)
+   Compares revenue and profit trends over time.
+
+2. **Product Revenue by Country** – *Stacked Bar Chart*
+   ![image](https://github.com/user-attachments/assets/b59f6a5e-7695-4ef0-b1cf-69f67b700f7a)
+   Displays product-wise revenue contribution segmented by country.
+
+3. **Revenue by Age Group** – *Pie Chart*
+   ![image](https://github.com/user-attachments/assets/cf8c83d7-58bc-49f9-9353-e985bdaf2238)
+   Illustrates revenue distribution across different customer age groups.
+
+These visuals enhance data interpretation and support data-driven decision-making.
 ---
 
 ## 📁 File Contents
@@ -78,3 +96,9 @@ This workbook is provided for **educational and learning purposes**. You are fre
 ## 👨🏽‍💻 Author
 
 **Krishan Mehta**
+
+
+
+
+
+
