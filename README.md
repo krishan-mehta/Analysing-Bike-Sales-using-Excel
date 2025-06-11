@@ -1,6 +1,6 @@
 # 🚲 Bike Sales Pivot Analysis – Excel Lab
 
-This project contains an Excel workbook titled **``**, focused on analyzing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
+This project contains an Excel workbook titled **`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`**, focused on analyzing bike sales data using **Pivot Tables** and basic Excel data analysis techniques.
 
 ---
 
@@ -18,7 +18,7 @@ This project demonstrates the use of **Microsoft Excel** to analyze and visualiz
 
 ## 📁 File Contents
 
-**``** includes:
+**`Day_3_Task_1_Bike_Sales_Pivot_Lab - Krishan_Mehta.xlsx`** includes:
 
 - A **Raw Data** sheet with detailed bike sales records  
 - One or more **Pivot Tables** summarizing:
@@ -77,4 +77,4 @@ This workbook is provided for **educational and learning purposes**. You are fre
 
 ## 👨🏽‍💻 Author
 
-****
+**Krishan Mehta**
